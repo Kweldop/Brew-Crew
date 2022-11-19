@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "968847360422",
+    "project_id": "parvez-brew-crew",
+    "storage_bucket": "parvez-brew-crew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968847360422:android:7c42690c4bbac56a0b4f67",
+        "android_client_info": {
+          "package_name": "com.parvez.brew_crew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "968847360422-n35dioj7ucseiq79fokncpi4fkooa0lr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlxjsubeT3RTH6z5oPlDtZa06fs93IHDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "968847360422-n35dioj7ucseiq79fokncpi4fkooa0lr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
